@@ -1,0 +1,34 @@
+.encabezadoProductos {
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+label {
+    width: 150px;
+    display: inline-block;
+    
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+tr {
+    width: 150px;
+    text-align: center;
+    
+}
+
+td {
+    width: 150px;
+    text-align: center;
+    border-bottom: 1px solid #000000;
+}
+th {
+    border-bottom: 1px  double #000000;
+}
